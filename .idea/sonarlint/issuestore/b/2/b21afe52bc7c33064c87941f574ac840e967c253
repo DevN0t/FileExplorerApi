@@ -1,0 +1,16 @@
+
+
+java:S1192>"FDefine a constant instead of duplicating this literal "Error" 4 times.(ÇŸÂóøÿÿÿÿ8‹¯üçı1J$430be437-8101-49e0-bb12-6d27b37ebe9d
+¨
+java:S1488)"`Immediately return this expression instead of assigning it to the temporary variable "parentId".(Á‚û”úÿÿÿÿ8Œ¯üçı1J$44647285-4e1b-4900-bc40-cc23d8d0ac5e
+p
+java:S5411z"(Use a primitive boolean expression here.(…ÀÂéúÿÿÿÿ8Œ¯üçı1J$632b4740-c778-43e5-9a79-a71e50739d15
+p
+java:S5411|"(Use a primitive boolean expression here.(ŠŒ´›ùÿÿÿÿ8Œ¯üçı1J$0b6bb55e-3767-498c-be3e-4e271546ed5d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊğÛúÿÿÿÿ8¯üçı1J$36a47d59-298e-4ba3-a489-83c4cedbbed6
+Œ
+java:S2259z"DA "NullPointerException" could be thrown; "module" is nullable here.(…ÀÂéúÿÿÿÿ8º¯üçı1J$4460cd75-064b-40b1-a413-b613c530b4c5
+o
+java:S1125z"'Remove the unnecessary boolean literal.(…ÀÂéúÿÿÿÿ8Å¯üçı1J$2e6678b4-b502-42a2-99e1-224547318240
+o
+java:S1125|"'Remove the unnecessary boolean literal.(ŠŒ´›ùÿÿÿÿ8Å¯üçı1J$690bc2cd-464a-488e-bef4-fb6e4704808d
